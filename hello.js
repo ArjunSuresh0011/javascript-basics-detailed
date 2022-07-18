@@ -12,3 +12,6 @@ console.log(`This is writen in
 back tack
 so while braking the sentence also
 affect the string `);
+
+// this is a vs code shortcut to comment a line(crl + /)
+
